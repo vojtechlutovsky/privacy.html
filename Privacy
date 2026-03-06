@@ -1,0 +1,52 @@
+Privacy Policy for Tabelio
+Effective Date: March 6, 2026
+
+Welcome to Tabelio. We are committed to protecting your privacy and ensuring you have a safe experience while organizing your studies. This Privacy Policy explains how we collect, use, and safeguard your information.
+
+1. Information We Collect
+To provide you with the best study tools, Tabelio collects the following types of information:
+
+Account Information: Your email address and name provided through Firebase Authentication when you sign up.
+
+User Content: Data you actively create within the app, including timetables, exam dates, study notes, and linked materials.
+
+Media Files: Photos of timetables or documents that you upload for processing or storage.
+
+Usage Data: Technical information such as device type, operating system, and crash logs to help us improve app stability.
+
+2. How We Use Your Information
+We use your data strictly for the following purposes:
+
+Synchronization: To sync your schedules and notes across all your devices.
+
+AI Features: If you use the "Import from Photo" feature, image data is processed via the Gemini API to convert your physical timetable into a digital format.
+
+Premium Management: To verify your subscription status and grant access to exclusive features like "Practice Mode."
+
+Notifications: To send you reminders about upcoming exams or schedule changes.
+
+3. Data Storage and Third-Party Services
+We do not sell your personal data. We rely on industry-standard services to power Tabelio:
+
+Google Firebase: Used for authentication (Auth), real-time database (Firestore), and file storage (Cloud Storage). Data is stored on secured Google Cloud servers.
+
+Google Gemini API: Used for intelligent text recognition (OCR) and data structuring.
+
+RevenueCat / App Store / Google Play: For managing secure payment processing for Premium subscriptions.
+
+4. Data Retention and Deletion
+Your data remains in Tabelio as long as your account is active.
+
+Account Deletion: You can request to delete your account at any time through the app settings. Upon deletion, all your personal data, including notes and schedules, will be permanently removed from our active databases.
+
+5. Security
+We implement a variety of security measures to maintain the safety of your personal information. All data transfers between the app and the cloud are encrypted using SSL/TLS protocols.
+
+6. Children's Privacy
+Tabelio is designed for students. We do not knowingly collect personal information from children under the age of 13 (or 16 in certain jurisdictions) without parental consent. If we learn we have collected such information, we will take steps to delete it immediately.
+
+7. Changes to This Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Effective Date" at the top.
+
+8. Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
